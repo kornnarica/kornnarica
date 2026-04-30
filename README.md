@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Portfolio  
-🔗 https://kornnarica.github.io/
+[![Website](https://img.shields.io/badge/Website-Portfolio-black?style=for-the-badge)](https://kornnarica.github.io/)  
 
 ---
 
@@ -55,7 +55,6 @@ Flask • REST APIs • Data Systems
 
 ## 🌐 Connect With Me  
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-black?style=for-the-badge)](https://kornnarica.github.io/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kornpong-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/)  
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:kornnarica@gmail.com)  
@@ -73,3 +72,6 @@ Flask • REST APIs • Data Systems
 ---
 
 ## 🧭 Philosophy  
+Clarity over complexity
+Function guided by empathy
+Technology in service of people

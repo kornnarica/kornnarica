@@ -2,9 +2,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=4A90E2&center=true&vCenter=true&width=600&lines=Design-Driven+App+Developer;AI+%7C+SwiftUI+%7C+Graph+Neural+Networks;Building+Intelligent+User+Experiences" /> </p> <p align="center"> <a href="https://kornnarica.github.io/"> <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
 🧠 About Me
 
-I design and build intelligent, user-centered applications that combine strong engineering with thoughtful interface design. My focus is on creating systems where AI enhances usability, not complexity.
-
-My work spans SwiftUI mobile apps, machine learning systems, and interactive experiences, with a particular interest in real-time feedback systems, health-tech, and human-centered AI. I aim to bridge the gap between advanced computation and intuitive user experience.
+I design and build intelligent, user-centered applications that combine strong engineering with thoughtful interface design. My work focuses on AI-powered systems, SwiftUI apps, and real-time feedback experiences, bridging the gap between advanced technology and intuitive usability.
 
 ⚙️ Tech Stack
 🧩 Core Languages
@@ -19,17 +17,17 @@ My work spans SwiftUI mobile apps, machine learning systems, and interactive exp
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,xcode" /> </p>
 🚀 Currently Working On
 🫀 RescueReady
-AI-powered CPR training system with real-time posture and compression feedback using pose estimation
+→ AI-powered CPR training system with real-time posture & compression feedback
 🧠 The Nod
-A structured, gamified app designed to help users overcome social anxiety through progressive interaction challenges
+→ Gamified social anxiety intervention with structured exposure challenges
 🚆 Coldline Express
-A narrative-driven 2D survival game built in LOVE2D with dynamic enemy systems and progression mechanics
+→ 2D survival game (LOVE2D) with combat and progression systems
 🌐 AI Pertussis Detection Platform
-Machine learning-powered health detection system deployed through a web interface
+→ Machine learning-based health detection web system
 🏥 Smart Catheter Monitoring System
-Hardware-integrated system detecting reverse flow and blockage using sensor-based logic
+→ Sensor-driven detection for blockage and reverse flow
 🌐 Connect With Me
-<p align="center"> <a href="https://kornnarica.github.io/"> <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Twitter%2FX-Coming_Soon-000000?style=for-the-badge&logo=twitter"/> </a> </p>
+<p align="center"> <a href="https://kornnarica.github.io/"> <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/"> <img src="https://img.shields.io/badge/LinkedIn-Kornpong-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:kornnarica@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/kornnarica/"> <img src="https://img.shields.io/badge/Instagram-@kornnarica-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/> </a> </p>
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="150"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/> </p>
 🧭 Design Philosophy

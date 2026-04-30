@@ -21,16 +21,16 @@ I build **intelligent, user-centered applications** that combine strong engineer
 ## ⚙️ Tech Stack  
 
 **Languages**  
-Python • Swift  
+<p> <img src="https://skillicons.dev/icons?i=python,swift" /> </p>
 
 **AI / ML**  
-Graph Neural Networks • Computer Vision • CoreML  
+<p> <img src="https://img.shields.io/badge/Graph%20Neural%20Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Computer%20Vision-009688?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white"/> </p>
 
 **Mobile & UI/UX**  
-SwiftUI • UI/UX Design • Accessibility  
+<p> <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF4088?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Accessibility-34A853?style=for-the-badge&logo=google&logoColor=white"/> </p>
 
 **Backend**  
-Flask • REST APIs • Data Systems  
+<p> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/> <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data%20Systems-FFB300?style=for-the-badge"/> </p>
 
 ---
 

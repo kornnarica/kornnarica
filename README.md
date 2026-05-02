@@ -65,7 +65,7 @@ I build **intelligent, user-centered applications** that combine strong engineer
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kornnarica&show_icons=true&theme=tokyonight)  
+![Stats](https://github-readme-stats.vercel.app/api?username=kornnarica&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kornnarica&layout=compact&theme=tokyonight)
 
